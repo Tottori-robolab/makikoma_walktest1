@@ -1,0 +1,1 @@
+# makikoma_walktest1
